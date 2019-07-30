@@ -1,0 +1,5 @@
+Each file contains the dengue cases number for a specific year. 
+Each line of a file contains the dengue cases time series acumulated per week for each neighborhood. The fist element of the line is the neighborhood id.
+
+Data format:
+neighborhood_id,dengue_cases_week_1,dengue_cases_week_2,...,dengue_cases_week_52

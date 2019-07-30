@@ -1,0 +1,2 @@
+Each file contains the travels between neighborhoods for each of 52 weeks of the year
+Each line cotains values of a flow matrix. Position ij of the matrix contrains the travels from neighborhood i to neighborhood j. 
